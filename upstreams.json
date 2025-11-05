@@ -1,0 +1,38 @@
+[
+  {"name":"poli-worker-01-a","ip":"10.10.0.106","port":"80"},
+  {"name":"poli-worker-01-b","ip":"10.10.0.107","port":"80"},
+  {"name":"poli-worker-01-c","ip":"10.10.0.108","port":"80"},
+  {"name":"poli-worker-01-d","ip":"10.10.0.109","port":"80"},
+
+  {"name":"agent-1","ip":"10.10.0.106","port":"8081"},
+  {"name":"agent-2","ip":"10.10.0.106","port":"8082"},
+  {"name":"agent-3","ip":"10.10.0.106","port":"8083"},
+  {"name":"agent-4","ip":"10.10.0.106","port":"8084"},
+
+  {"name":"dummy-1","ip":"10.10.0.107","port":"8081"},
+  {"name":"dummy-2","ip":"10.10.0.107","port":"8082"},
+  {"name":"dummy-3","ip":"10.10.0.107","port":"8083"},
+  {"name":"dummy-4","ip":"10.10.0.107","port":"8084"},
+
+  {"name":"real-drupal","ip":"10.10.0.108","port":"8001"},
+  {"name":"real-gitlab","ip":"10.10.0.108","port":"8002"},
+  {"name":"real-grav","ip":"10.10.0.108","port":"8003"},
+  {"name":"real-metabase","ip":"10.10.0.108","port":"8004"},
+  {"name":"real-wordpress","ip":"10.10.0.108","port":"8005"},
+  {"name":"real-ghost","ip":"10.10.0.108","port":"8006"},
+  {"name":"real-grafana","ip":"10.10.0.108","port":"8007"},
+  {"name":"real-jenkins","ip":"10.10.0.108","port":"8008"},
+  {"name":"real-phpmyadmin", "ip":"10.10.0.108","port":"8009"},
+  {"name":"real-zabbix","ip":"10.10.0.108","port":"8010"},
+
+  {"name":"hp-drupal","ip":"10.10.0.109","port":"8001"},
+  {"name":"hp-gitlab","ip":"10.10.0.109","port":"8002"},
+  {"name":"hp-grav","ip":"10.10.0.109","port":"8003"},
+  {"name":"hp-metabase","ip":"10.10.0.109","port":"8004"},
+  {"name":"hp-wordpress","ip":"10.10.0.109","port":"8005"},
+  {"name":"hp-ghost","ip":"10.10.0.109","port":"8006"},
+  {"name":"hp-grafana","ip":"10.10.0.109","port":"8007"},
+  {"name":"hp-jenkins","ip":"10.10.0.109","port":"8008"},
+  {"name":"hp-phpmyadmin", "ip":"10.10.0.109","port":"8009"},
+  {"name":"hp-zabbix","ip":"10.10.0.109","port":"8010"}
+]
