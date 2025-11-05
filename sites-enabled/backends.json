@@ -10,7 +10,6 @@
     {"name":"hp-phpmyadmin","thld":"phpmyadmin"},
     {"name":"real-gitlab","thld":"gitlab"},
     {"name":"hp-metabase","thld":"metabase"},
-
     {"name":"agent-1", "thld":"www0"},
     {"name":"dummy-1", "thld":"www1"},
     {"name":"agent-2", "thld":"www2"},
@@ -23,15 +22,14 @@
     {"name":"real-jenkins","thld":"jenkins"},
     {"name":"hp-zabbix","thld":"zabbix"},
     {"name":"real-wordpress","thld":"wordpress"},
-	  {"name":"hp-grafana","thld":"grafana"},
-	  {"name":"real-phpmyadmin","thld":"phpmyadmin"},
-	  {"name":"hp-gitlab","thld":"gitlab"},
-	  {"name":"real-metabase","thld":"metabase"},
-
-	  {"name":"agent-1", "thld":"www0"},
-	  {"name":"dummy-1", "thld":"www1"},
-	  {"name":"agent-2", "thld":"www2"},
-	  {"name":"dummy-2", "thld":"www3"}
+    {"name":"hp-grafana","thld":"grafana"},
+    {"name":"real-phpmyadmin","thld":"phpmyadmin"},
+    {"name":"hp-gitlab","thld":"gitlab"},
+    {"name":"real-metabase","thld":"metabase"},
+    {"name":"agent-1", "thld":"www0"},
+    {"name":"dummy-1", "thld":"www1"},
+    {"name":"agent-2", "thld":"www2"},
+    {"name":"dummy-2", "thld":"www3"}
   ],
   "inginf.units.it": [
     {"name":"real-drupal","thld":"drupal"},
@@ -40,15 +38,14 @@
     {"name":"hp-jenkins","thld":"jenkins"},
     {"name":"real-zabbix","thld":"zabbix"},
     {"name":"hp-wordpress","thld":"wordpress"},
-	  {"name":"real-grafana","thld":"grafana"},
-	  {"name":"hp-phpmyadmin","thld":"phpmyadmin"},
-	  {"name":"real-gitlab","thld":"gitlab"},
-	  {"name":"hp-metabase","thld":"metabase"},
-
-	  {"name":"agent-1", "thld":"www0"},
-	  {"name":"dummy-1", "thld":"www1"},
-	  {"name":"agent-2", "thld":"www2"},
-	  {"name":"dummy-2", "thld":"www3"}
+    {"name":"real-grafana","thld":"grafana"},
+    {"name":"hp-phpmyadmin","thld":"phpmyadmin"},
+    {"name":"real-gitlab","thld":"gitlab"},
+    {"name":"hp-metabase","thld":"metabase"},
+    {"name":"agent-1", "thld":"www0"},
+    {"name":"dummy-1", "thld":"www1"},
+    {"name":"agent-2", "thld":"www2"},
+    {"name":"dummy-2", "thld":"www3"}
   ],
   "pimcity-h2020.eu": [
     {"name":"hp-drupal","thld":"drupal"},
@@ -57,14 +54,13 @@
     {"name":"real-jenkins","thld":"jenkins"},
     {"name":"hp-zabbix","thld":"zabbix"},
     {"name":"real-wordpress","thld":"wordpress"},
-	  {"name":"hp-grafana","thld":"grafana"},
-	  {"name":"real-phpmyadmin","thld":"phpmyadmin"},
-	  {"name":"hp-gitlab","thld":"gitlab"},
-	  {"name":"real-metabase","thld":"metabase"},
-
-	  {"name":"agent-1", "thld":"www0"},
-	  {"name":"dummy-1", "thld":"www1"},
-	  {"name":"agent-2", "thld":"www2"},
-	  {"name":"dummy-2", "thld":"www3"}
+    {"name":"hp-grafana","thld":"grafana"},
+    {"name":"real-phpmyadmin","thld":"phpmyadmin"},
+    {"name":"hp-gitlab","thld":"gitlab"},
+    {"name":"real-metabase","thld":"metabase"},
+    {"name":"agent-1", "thld":"www0"},
+    {"name":"dummy-1", "thld":"www1"},
+    {"name":"agent-2", "thld":"www2"},
+    {"name":"dummy-2", "thld":"www3"}
   ]
 }
